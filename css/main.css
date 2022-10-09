@@ -485,6 +485,10 @@ span.text {
   .footer-distributed .footer-center i{
     margin-left: 0;
   }
+
+  .containerr i {
+    margin-top: 18px;
+  }
 }
 .footer-distributed .footer-right .footer-icons .youtube:hover {
     color: #ff0000;
@@ -508,3 +512,6 @@ span.text {
   color:#eb9834;
 }
 
+.content .btn {
+  margin-top: 20px;
+}
