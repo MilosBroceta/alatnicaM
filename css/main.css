@@ -486,8 +486,8 @@ span.text {
     margin-left: 0;
   }
 
-  .containerr i {
-    margin-top: 18px;
+  .containerr {
+    height: 50vmin;
   }
 }
 .footer-distributed .footer-right .footer-icons .youtube:hover {
