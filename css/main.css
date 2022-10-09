@@ -520,4 +520,9 @@ span.text {
   .navbar a {
     margin: 0;
   }
+
+  #contact .row .column:nth-of-type(1) {
+    height: 500px;
+  }
 }
+
