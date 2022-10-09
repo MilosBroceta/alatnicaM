@@ -93,7 +93,7 @@ img{
 }
 
 .hero .content h1{
-  font-size: 40px;
+  font-size: 50px;
 }
 
 .hero .content p{
@@ -504,13 +504,13 @@ span.text {
   color:#1da1f2;
 }
 .footer-distributed .footer-center .marker i:hover {
-  color:black;
+  color:#fff70f;
 }
 .footer-distributed .footer-center .phone i:hover {
-  color:green;
+  color:#21C21C;
 }
 .footer-distributed .footer-center .envelope i:hover {
-  color:#eb9834;
+  color:#00a2ed;
 }
 
 .content .btn {
