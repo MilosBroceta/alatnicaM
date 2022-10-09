@@ -516,8 +516,8 @@ span.text {
   margin-top: 20px;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-width: 750px) {
   .navbar a {
-    margin: 0 7px;
+    margin: 0;
   }
 }
