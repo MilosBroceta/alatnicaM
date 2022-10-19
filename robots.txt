@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /index.html
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+Sitemap: https://melodic-vacherin-ca5fd1.netlify.app/sitemap.xml
